@@ -1,2 +1,2 @@
-# -lk-Web-Sayfam-z-Olu-turmak
+# Ilk Web Sayfamızı Oluşturmak
 Ödev 1
